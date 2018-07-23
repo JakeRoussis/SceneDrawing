@@ -1,0 +1,13 @@
+SplashKit Animation
+
+//Multi-frame: ranges are in[]
+//[a-b] = numbers from a to b inclusive
+//[a,b,c] = explicit values
+//[a-b,c] = combination
+f:[0-24],[0-24], 3, 0
+
+//identifiers
+i:tick, 0
+
+//sound
+s:0,fuse,fuse.wav
